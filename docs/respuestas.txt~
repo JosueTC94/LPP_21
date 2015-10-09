@@ -3,3 +3,30 @@ Pregunta 52
 
 La compilación necesita traducir de un código fuente a un lenguaje objeto, mientras que en la interpretación se toma cada linea de código y se analiza y ejecuta al mismo tiempo.
 
+Pregunta 57
+¿Qué permisos tiene el fichero helloWorld.sh?
+	-Para el propietario: Permisos de escritura,lectura y ejecucion.
+	-Para el resto: Sólo permisos de lectura.
+¿Se puede ejecutar directamente?
+Sí.
+
+Pregunta 58
+¿Qué permisos tiene el fichero helloWorld.rb?
+	-Para el propietario: Permisos de lectura, escritura y ejecución.
+	-Para el resto: Permiso de lectura únicamente.
+¿Se puede ejecutar directamente?
+	No se puede ejecutar directamente.
+
+Pregunta 59
+¿Cuál es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb?
+	La diferencia principal es que helloWorld.sh es un script, mientras que helloWorld.rb es un código Ruby, el cual es un lenguaje interpretado.
+¿Qué significado tiene la primera línea del fichero helloWorld.sh?
+La primera línea nos indica que ha de utilizarse un intérprete para ejecutar la secuencia de comandos.
+
+
+Pregunta 60
+¿En qué directorio está instalado el intérprete de Ruby?(which ruby)
+	/usr/bin/ruby
+
+
+
