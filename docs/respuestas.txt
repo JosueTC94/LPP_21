@@ -24,4 +24,9 @@ Pregunta 59
 La primera línea nos indica que ha de utilizarse un intérprete para ejecutar la secuencia de comandos.
 
 
+Pregunta 60
+¿En qué directorio está instalado el intérprete de Ruby?(which ruby)
+	/usr/bin/ruby
+
+
 
