@@ -1,0 +1,5 @@
+Pregunta 52
+¿Cuál es la diferencia entre compilación e interpretación?
+
+La compilación necesita traducir de un código fuente a un lenguaje objeto, mientras que en la interpretación se toma cada linea de código y se analiza y ejecuta al mismo tiempo.
+
